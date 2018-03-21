@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<form>
+  name:<br>
+  <input type="text" name="name">
+  <br>
+  email:<br>
+  <input type="text" name="email">
+  <br>
+  
+  phone number:<br>
+   <input type="text" name="phone no">
+   <br>
+   
+   address:<br>
+   
+    <input type="text" name="address">
+    <br><br>
+      <input type="submit" value="Submit">
+  
+</form>
+
+
+</body>
+</html>
